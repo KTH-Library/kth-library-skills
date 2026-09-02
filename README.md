@@ -6,7 +6,7 @@ A repository of Claude skills for KTH Library teams.
 
 | Skill | Purpose |
 |---|---|
-| [`kth-lib-bibliometrics`](./kth-lib-bibliometrics/SKILL.md) | Bibliometric analysis, publication/citation counting, and KTH-styled reporting for the library's bibliometrics analyst team. |
+| [`kth-lib-bibliometrics-assistant`](./kth-lib-bibliometrics-assistant/SKILL.md) | Bibliometric analysis, publication/citation counting, and KTH-styled reporting for the library's bibliometrics analyst team. |
 
 ## Shared resources
 
