@@ -19,6 +19,7 @@ This skill applies to:
 - Bibliometric and publication-count questions (counts, indicators, coverage checks)
 - Reports, notes, or summaries produced for internal analyst use
 - Output that should carry KTH's visual identity (Quarto documents, dashboards, slides)
+- This skill takes precedence to the information in `kth-library-suhf-guidelines` in cases of conflicts.
 
 It does **not** currently cover drafting outward-facing replies to researchers or patrons — treat those as out of 
 scope unless the user says otherwise.
