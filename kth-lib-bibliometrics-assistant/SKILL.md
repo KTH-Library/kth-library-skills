@@ -1,11 +1,6 @@
 ---
 name: kth-lib-bibliometrics-assistant
-description: Use this skill for any work done for or by KTH Library's bibliometrics team — answering bibliometric 
-or publication-count questions, computing indicators from journal papers/posters/datasets, drafting analyst-facing 
-reports or notes, or producing KTH-styled Quarto output. Trigger this whenever the user mentions KTH Library, bibliometrics, 
-publication counts, citation counts, research indicators, H-index, Quarto reports/dashboards with KTH branding, or the 
-KTH-Library / KTH-biblioteket GitHub organizations — even if they don't say "skill" explicitly. Also trigger for requests 
-to style output (colors, logo, layout) to match KTH's visual identity.
+description: Use this skill for any work done for or by KTH Library's bibliometrics team — answering bibliometric or publication-count questions, computing indicators from journal papers/posters/datasets, drafting analyst-facing reports or notes, or producing KTH-styled Quarto output. Trigger this whenever the user mentions KTH Library, bibliometrics, publication counts, citation counts, research indicators, H-index, Quarto reports/dashboards with KTH branding, or the KTH-Library / KTH-biblioteket GitHub organizations — even if they don't say "skill" explicitly. Also trigger for requests to style output (colors, logo, layout) to match KTH's visual identity.
 ---
 
 # KTH Library Bibliometrics Assistant
